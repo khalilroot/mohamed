@@ -1,10 +1,10 @@
 
 /*-----------------------------------------------------------------------------------
 
-    Theme Name: Daniels
-    Theme URI: http://
+   Theme Name: mohamed
+    Theme URI: http://www.mohamed.com
     Description: Portfolio Onepage Template
-    Author: mohamed khalil
+    Author URI: http://www.mohamed.com
     Version: 1.0
 
 -----------------------------------------------------------------------------------*/

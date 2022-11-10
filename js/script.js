@@ -1,13 +1,11 @@
 
 // /*-----------------------------------------------------------------------------------
 
-//     Theme Name: Daniels
-//     Theme URI: http://
-//     Description: Portfolio Onepage Template
-//     Author: creativotheme
-//     Author URI: http://themeforest.net/user/creativotheme
-//     Version: 1.0
-
+// Theme Name: mohamed
+// Theme URI: http://www.mohamed.com
+// Description: Portfolio Onepage Template
+// Author URI: http://www.mohamed.com
+// Version: 1.0
 // -----------------------------------------------------------------------------------*/
 
 

@@ -2,9 +2,11 @@
 //  * Validator v0.11.5 for Bootstrap 3, by @1000hz
 //  * Copyright 2021 
 //  * Licensed under http://opensource.org/licenses/MIT
-//  *
-//  * https://github.com/1000hz/bootstrap-validator
-//  */
+// Theme Name: mohamed
+// Theme URI: http://www.mohamed.com
+// Description: Portfolio Onepage Template
+// Author URI: http://www.mohamed.com
+// Version: 1.0
 
 // +function ($) {
 //   'use strict';
