@@ -4,8 +4,7 @@
     Theme Name: Daniels
     Theme URI: http://
     Description: Portfolio Onepage Template
-    Author: creativotheme
-    Author URI: http://themeforest.net/user/creativotheme
+    Author: mohamed khalil
     Version: 1.0
 
 -----------------------------------------------------------------------------------*/
